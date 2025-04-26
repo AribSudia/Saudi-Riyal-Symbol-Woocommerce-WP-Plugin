@@ -23,7 +23,7 @@ A WordPress + WooCommerce plugin that replaces the SAR (Saudi Riyal) currency sy
 ## 📦 Installation
 
 1. Download the latest version:  
-   👉 https://arib.sa/plugins/saudi-riyal-symbol  
+   👉 [https://arib.sa/plugins/saudi-riyal-symbol  ](https://plugins.arib.sa/saudiriyalsymbol)
    or clone from GitHub:
    ```bash
    git clone https://github.com/AribSudia/Saudi-Riyal-Symbol-Woocommerce-WP-Plugin.git
