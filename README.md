@@ -1,4 +1,4 @@
-# 🇸🇦 Saudi Riyal Symbol
+# 🇸🇦 Saudi Riyal Symbol | رمز الريال السعودي
 
 [![License: GPL v2](https://img.shields.io/badge/license-GPL--2.0-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Official Page](https://img.shields.io/badge/Official%20Page-arib.sa-blue)](https://plugins.arib.sa/saudi-riyal-symbol/)
