@@ -1,7 +1,7 @@
 # 🇸🇦 Saudi Riyal Symbol | رمز الريال السعودي
 
 [![License: GPL v2](https://img.shields.io/badge/license-GPL--2.0-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![Plugin Page](https://img.shields.io/badge/Official%20Page-arib.sa-blue)](https://arib.sa/plugins/saudi-riyal-symbol)
+[![Plugin Page](https://img.shields.io/badge/Official%20Page-arib.sa-blue)](https://plugins.arib.sa/saudiriyalsymbol)
 
 <img src="[assets/images/Saudi_Riyal_Symbol-2.svg](https://github.com/AribSudia/Saudi-Riyal-Symbol-Woocommerce-WP-Plugin/blob/main/Saudi_Riyal_Symbol-2.svg)" alt="Saudi Riyal Symbol" width="150" />
 
@@ -23,7 +23,7 @@ A WordPress + WooCommerce plugin that replaces the SAR (Saudi Riyal) currency sy
 ## 📦 Installation
 
 1. Download the latest version:  
-   👉 [https://arib.sa/plugins/saudi-riyal-symbol  ](https://plugins.arib.sa/saudiriyalsymbol)
+   👉 [https://plugins.arib.sa/saudiriyalsymbol  ](https://plugins.arib.sa/saudiriyalsymbol)
    or clone from GitHub:
    ```bash
    git clone https://github.com/AribSudia/Saudi-Riyal-Symbol-Woocommerce-WP-Plugin.git
