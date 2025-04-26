@@ -3,6 +3,8 @@
 [![License: GPL v2](https://img.shields.io/badge/license-GPL--2.0-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Plugin Page](https://img.shields.io/badge/Official%20Page-arib.sa-blue)](https://arib.sa/plugins/saudi-riyal-symbol)
 
+<img src="assets/images/Saudi_Riyal_Symbol-2.svg" alt="Saudi Riyal Symbol" width="150" />
+
 A WordPress + WooCommerce plugin that replaces the SAR (Saudi Riyal) currency symbol with the official glyph from the **Saudi_Riyal** font.  
 💡 Supports both RTL (Arabic) and LTR (English) layouts.
 
@@ -20,7 +22,7 @@ A WordPress + WooCommerce plugin that replaces the SAR (Saudi Riyal) currency sy
 
 ## 📦 Installation
 
-1. Download the latest version:
+1. Download the latest version:  
    👉 https://arib.sa/plugins/saudi-riyal-symbol  
    or clone from GitHub:
    ```bash
@@ -31,7 +33,21 @@ A WordPress + WooCommerce plugin that replaces the SAR (Saudi Riyal) currency sy
 
 3. Activate the plugin from the WordPress dashboard.
 
-4. Clear your cache and check any WooCommerce product or price display.
+4. **Activate your free license:**
+   - Get your free license code from: [https://plugins.arib.sa/saudiriyalsymbol](https://plugins.arib.sa/saudiriyalsymbol)
+   - Enter the license key on the plugin's license page in your WordPress dashboard.
+   - Enjoy full features for free!
+
+5. Clear your cache and check any WooCommerce product or price display.
+
+---
+
+## 🧪 Free License Activation
+
+- After installing and activating the plugin, you must enter a license code.
+- The license is provided **free of charge** from: [https://plugins.arib.sa/saudiriyalsymbol](https://plugins.arib.sa/saudiriyalsymbol).
+- Without activating the license, the plugin features will not work.
+- Upon activation, a 90-day free trial starts. You will be reminded to upgrade before the period ends.
 
 ---
 
@@ -47,7 +63,7 @@ A WordPress + WooCommerce plugin that replaces the SAR (Saudi Riyal) currency sy
 ### Arabic (RTL):
 ```html
 <span class="woocommerce-Price-amount amount">
-  <bdi><span class="srs-glyph">&#xE900;</span> ٢٩٩٫٠٠</bdi>
+  <bdi><span class="srs-glyph">&#xE900;</span> ٢٩٩ٮ٠٠</bdi>
 </span>
 ```
 
@@ -65,7 +81,7 @@ To change the color or size of the symbol:
 
 ---
 
-## 🗂️ Folder Structure
+## 👢 Folder Structure
 ```
 saudi-riyal-symbol/
 ├── assets/
@@ -75,7 +91,7 @@ saudi-riyal-symbol/
 │       ├── saudi_riyal.ttf
 │       ├── saudi_riyal.woff
 │       └── saudi_riyal.woff2
-├── saudi-riyal-symbol.php
+└── saudi-riyal-symbol.php
 ```
 
 ---
@@ -86,7 +102,7 @@ This plugin is licensed under the [GPL v2 or later](https://www.gnu.org/licenses
 
 ---
 
-## 🧠 Developed by
+## 🧐 Developed by
 
 **[Arib Information Technology](https://arib.sa)**  
 Official Plugin Page: [https://arib.sa/plugins/saudi-riyal-symbol](https://arib.sa/plugins/saudi-riyal-symbol)
